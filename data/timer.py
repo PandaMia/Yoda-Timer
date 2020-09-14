@@ -4,7 +4,7 @@ import pygame
 class Timer(object):
 
     def __init__(self):
-        self.delta = datetime.timedelta(seconds=5)
+        self.delta = datetime.timedelta(seconds=300)
         self.time = datetime.datetime.now() + self.delta
         self.countdown = False
 
