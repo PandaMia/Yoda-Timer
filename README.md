@@ -6,6 +6,6 @@
 
 Это реализация таймера с изображением Йоды для более вовлеченного освоения техник.
 
-[Скачать exe](https://drive.google.com/file/d/1sdKM7uj8AjsVxWSZyVyJW7zKEk4g8BAT/view?usp=sharing).
+[Скачать exe](https://drive.google.com/file/d/1m7e3Ef9Y7gLLe_gxILp0y9BTdwAswVOD/view?usp=sharing).
 
 ![ss](/screenshot.png)
